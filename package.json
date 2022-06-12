@@ -1,0 +1,23 @@
+{
+  "name": "js-file-manager",
+  "version": "0.0.1",
+  "description": "File Manager using Node.js APIs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/va259/node-js-file-manager.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "va259",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/va259/node-js-file-manager/issues"
+  },
+  "homepage": "https://github.com/va259/node-js-file-manager#readme"
+}
